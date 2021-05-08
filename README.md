@@ -1,8 +1,9 @@
 ## Machine Learning Algorithms Without using sklearn 
 #### Multiple Linear Regresssion
 #### LogisticRegression
-#### Support Vector Machine
+#### Support Vector Machine (Linear and non linear decission boundary)
 #### Independent component analysis
+#### Gaussian Mixture Model (using EM Algorithm)
 #### Naive Bayes
 #### Multinomial,Gaussian Naive Bayes
 #### Decission Tree
