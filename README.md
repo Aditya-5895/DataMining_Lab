@@ -7,6 +7,7 @@
 #### Naive Bayes
 #### Multinomial,Gaussian Naive Bayes
 #### Decission Tree
+#### K-nearest Neighbour(KNN)
 #### Linear Discriminant Analysis (LDA)
 #### Quadratic Discriminant Analysis (QDA)
 
